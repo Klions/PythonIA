@@ -1,0 +1,51 @@
+﻿Data;Horário;Camp.;Rodada;Dia;Local;Resultado;GP;GC;Oponente;xG;xGA;Posse;Público;Capitão;Formação;Árbitro
+05/04/2023;17:00 (19:00);Libertadores;Estágio de grupos;qua;Visitante;D;1;2;ec SD Aucas;0.9;1.4;60;;Everton Ribeiro;3-4-3;José Argote
+16/04/2023;16:00;Série A;Rodada da semana 1;dom;Em casa;V;3;0;Coritiba;1.4;0.4;58;42.848;Everton Ribeiro;4-2-3-1;Rodrigo José Pereira de Lima
+19/04/2023;21:30;Libertadores;Estágio de grupos;qua;Em casa;V;2;0;cl Ñublense;1.9;0.1;57;48.895;Gabriel Barbosa;3-5-2;Wilmar Roldán
+23/04/2023;11:00;Série A;Rodada da semana 2;dom;Visitante;D;1;2;Internacional;1.5;1.1;64;45.751;Everton Ribeiro;4-1-2-1-2;Ramon Abatti Abel
+30/04/2023;16:00;Série A;Rodada da semana 3;dom;Em casa;D;2;3;Botafogo (RJ);3.1;1.9;74;53.138;Gabriel Barbosa;37714;Edina Alves Batista
+04/05/2023;19:00;Libertadores;Estágio de grupos;qui;Visitante;E;1;1;ar Racing Club;1.1;0.9;69;25.325;Everton Ribeiro;4-3-1-2;Jesús Valenzuela
+07/05/2023;16:00;Série A;Rodada da semana 4;dom;Visitante;D;1;2;Ath Paranaense;1.5;1.0;60;32.949;Everton Ribeiro;3-4-3;Raphael Claus
+10/05/2023;20:00;Série A;Rodada da semana 5;qua;Em casa;V;2;0;Goiás;2.6;0.7;57;44.948;Everton Ribeiro;4-2-3-1;Savio Pereira
+13/05/2023;16:00;Série A;Rodada da semana 6;sáb;Visitante;V;3;2;Bahia;2.2;1.4;48;48.502;Gabriel Barbosa;4-1-4-1;Paulo Cesar Zanovelli da Silva
+14/05/2023;16:00;Série A;Rodada da semana 6;sáb;Visitante;D;0;1;São Paulo;1.8;2.1;55;51.301;Everton Ribeiro;4-2-3-1;Paulo Cesar Zanovelli da Silva
+15/05/2023;16:00;Série A;Rodada da semana 6;sáb;Visitante;V;1;0;Fluminense;0.9;0.8;52;48.502;Gabriel Barbosa;4-1-4-1;Paulo Cesar Zanovelli da Silva
+16/05/2023;16:00;Série A;Rodada da semana 6;sáb;Visitante;D;1;0;Fluminense;0.9;0.8;52;48.502;Gabriel Barbosa;4-1-4-1;Paulo Cesar Zanovelli da Silva
+17/05/2023;16:00;Série A;Rodada da semana 6;sáb;Visitante;V;2;0;Fluminense;0.9;0.8;52;48.502;Gabriel Barbosa;4-1-4-1;Paulo Cesar Zanovelli da Silva
+21/05/2023;16:00;Série A;Rodada da semana 7;dom;Em casa;V;1;0;Corinthians;0.6;1.2;64;64.871;Gabriel Barbosa;4-2-2-2;Rafael Rodrigo Klein
+24/05/2023;20:30 (21:30);Libertadores;Estágio de grupos;qua;Visitante;E;1;1;cl Ñublense;0.9;1.1;60;;Gabriel Barbosa;4-3-3;Esteban Ostojich
+27/05/2023;18:30;Série A;Rodada da semana 8;sáb;Em casa;E;1;1;Cruzeiro;2.0;1.2;62;65.270;Gabriel Barbosa;4-3-1-2;Luiz Flávio de Oliveira
+05/06/2023;20:00;Série A;Rodada da semana 9;seg;Visitante;V;4;1;Vasco da Gama;1.1;1.5;55;46.423;David Luiz;4-2-2-2;Braulio Machado
+08/06/2023;21:00;Libertadores;Estágio de grupos;qui;Em casa;V;2;1;ar Racing Club;1.1;0.5;60;63.963;Everton Ribeiro;4-2-2-2;Gustavo Tejera
+11/06/2023;18:30;Série A;Rodada da semana 10;dom;Em casa;V;3;0;Grêmio;1.9;2.0;52;62.967;Everton Ribeiro;4-2-2-2;Savio Pereira
+22/06/2023;21:30;Série A;Rodada da semana 11;qui;Visitante;D;0;4;Bragantino;0.8;3.3;41;10.103;Everton Ribeiro;4-2-3-1;Anderson Daronco
+25/06/2023;18:30;Série A;Rodada da semana 12;dom;Visitante;V;3;2;Santos;0.8;1.8;67;;Everton Ribeiro;4-3-3;Wilton Sampaio
+28/06/2023;21:30;Libertadores;Estágio de grupos;qua;Em casa;V;4;0;ec SD Aucas;5.0;0.4;66;62.924;Everton Ribeiro;4-1-4-1;Andrés Rojas
+01/07/2023;18:30;Série A;Rodada da semana 13;sáb;Em casa;V;2;0;Fortaleza;1.3;1.6;58;64.853;Everton Ribeiro;4-2-2-2;Savio Pereira
+08/07/2023;21:00;Série A;Rodada da semana 14;sáb;Visitante;E;1;1;Palmeiras;0.8;1.1;56;40.229;David Luiz;4-3-3;Ramon Abatti
+16/07/2023;16:00;Série A;Rodada da semana 15;dom;Visitante;E;0;0;Fluminense;0.4;1.5;46;62.354;Everton Ribeiro;4-2-3-1;Savio Pereira
+22/07/2023;16:00;Série A;Rodada da semana 16;sáb;Em casa;E;1;1;América (MG);2.5;1.3;66;60.402;Everton Ribeiro;4-2-3-1;Rodrigo José Pereira de Lima
+29/07/2023;21:00;Série A;Rodada da semana 17;sáb;Visitante;V;2;1;Atlético Mineiro;1.8;0.9;60;22.441;Everton Ribeiro;4-2-3-1;Flavio de Souza
+03/08/2023;21:00;Libertadores;Oitavas de final;qui;Em casa;V;1;0;py Olimpia;1.6;0.8;74;67.066;Everton Ribeiro;4-2-3-1;Darío Herrera
+06/08/2023;19:00 (20:00);Série A;Rodada da semana 18;dom;Visitante;D;0;3;Cuiabá;0.8;1.9;62;33.091;David Luiz;4-2-3-1;Anderson Daronco
+10/08/2023;20:00 (21:00);Libertadores;Oitavas de final;qui;Visitante;D;1;3;py Olimpia;0.4;1.3;55;;Everton Ribeiro;4-2-3-1;Wilmar Roldán
+13/08/2023;18:30;Série A;Rodada da semana 19;dom;Em casa;E;1;1;São Paulo;1.4;0.8;54;62.018;Gabriel Barbosa;4-2-3-1;Rafael Rodrigo Klein
+20/08/2023;16:00;Série A;Rodada da semana 20;dom;Visitante;V;3;2;Coritiba;1.9;2.6;62;31.851;Gabriel Barbosa;4-2-2-2;Raphael Claus
+26/08/2023;18:30;Série A;Rodada da semana 21;sáb;Em casa;E;0;0;Internacional;0.7;0.3;59;58.892;Gabriel Barbosa;4-2-3-1;Edina Alves Batista
+02/09/2023;21:00;Série A;Rodada da semana 22;sáb;Visitante;V;2;1;Botafogo (RJ);0.8;1.1;52;40.769;Bruno Henrique;4-2-3-1;Raphael Claus
+13/09/2023;21:30;Série A;Rodada da semana 23;qua;Em casa;D;0;3;Ath Paranaense;0.5;2.3;58;20.670;Gabriel Barbosa;4-3-3;Rafael Rodrigo Klein
+20/09/2023;19:00;Série A;Rodada da semana 24;qua;Visitante;E;0;0;Goiás;0.5;0.1;64;13.799;Everton Ribeiro;4-3-3;Raphael Claus
+30/09/2023;16:00;Série A;Rodada da semana 25;sáb;Em casa;V;1;0;Bahia;1.4;0.5;65;46.472;Everton Ribeiro;4-2-3-1;Savio Pereira
+07/10/2023;21:00;Série A;Rodada da semana 26;sáb;Visitante;E;1;1;Corinthians;0.9;1.0;57;40.800;Everton Ribeiro;4-2-3-1;Anderson Daronco
+19/10/2023;19:00;Série A;Rodada da semana 27;qui;Visitante;V;2;0;Cruzeiro;1.8;0.3;57;37.073;Everton Ribeiro;4-2-3-1;Rafael Rodrigo Klein
+22/10/2023;16:00;Série A;Rodada da semana 28;dom;Em casa;V;1;0;Vasco da Gama;0.5;1.1;47;69.473;Bruno Henrique;4-2-3-1;Raphael Claus
+25/10/2023;21:30;Série A;Rodada da semana 29;qua;Visitante;D;2;3;Grêmio;1.1;1.0;62;22.325;Gerson;4-2-3-1;Rodrigo José Pereira de Lima
+01/11/2023;20:00;Série A;Rodada da semana 31;qua;Em casa;D;1;2;Santos;1.2;0.6;60;64.708;Bruno Henrique;4-2-3-1;Rafael Rodrigo Klein
+05/11/2023;16:00;Série A;Rodada da semana 32;dom;Visitante;V;2;0;Fortaleza;0.7;0.8;48;49.324;Giorgian De Arrascaeta;4-2-3-1;Anderson Daronco
+08/11/2023;21:30;Série A;Rodada da semana 33;qua;Em casa;V;3;0;Palmeiras;1.4;1.0;51;64.590;Gerson;4-2-3-1;Rodrigo José Pereira de Lima
+11/11/2023;18:30;Série A;Rodada da semana 34;sáb;Em casa;E;1;1;Fluminense;0.9;1.4;42;59.970;Gerson;4-2-3-1;Wilton Pereira Sampaio
+23/11/2023;21:30;Série A;Rodada da semana 30;qui;Em casa;V;1;0;Bragantino;1.1;1.3;53;57.699;Gerson;4-2-3-1;Braulio Machado
+26/11/2023;18:30;Série A;Rodada da semana 35;dom;Visitante;V;3;0;América (MG);3.0;0.5;57;39.900;Bruno Henrique;4-2-3-1;Rodrigo José Pereira de Lima
+29/11/2023;19:30;Série A;Rodada da semana 36;qua;Em casa;D;0;3;Atlético Mineiro;1.0;1.2;59;65.305;Bruno Henrique;4-2-3-1;Ramon Abatti
+03/12/2023;16:00;Série A;Rodada da semana 37;dom;Em casa;V;2;1;Cuiabá;1.5;0.8;68;63.148;Filipe Luís;4-2-3-1;Rodrigo José Pereira de Lima
+06/12/2023;21:30;Série A;Rodada da semana 38;qua;Visitante;D;0;1;São Paulo;0.4;0.5;57;36.618;Gerson;4-2-3-1;Caio Max Augusto Vieira
